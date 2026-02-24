@@ -13,6 +13,12 @@ Predicting stock prices is a complex task due to market volatility. Using histor
 ### Dataset:
 
 The dataset consists of historical stock closing prices from trainset.csv and testset.csv. The data is normalized using MinMax scaling, and sequences of 60 past values are used as input features. The model learns patterns from training data to predict upcoming prices, helping traders and investors make informed decisions.
+## Train Dataset
+<img width="522" height="427" alt="image" src="https://github.com/user-attachments/assets/a2d14b92-ad0e-4ac3-94ad-c83abfb6456d" />
+
+## Test Dataset
+
+<img width="485" height="500" alt="image" src="https://github.com/user-attachments/assets/d540df32-39a6-4063-886d-0789873559e2" />
 
 ## Design Steps
 ## Step 1:
